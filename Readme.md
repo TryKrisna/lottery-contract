@@ -1,13 +1,19 @@
 #### Important Note!
 ```sh
 This contract for testing only Random SHA3 not best praction to use for prodction Enviroment
-This code contain transfer crypto crrent on wallet make sure to verify funtion before compile
+This code contain transfer crypto currency on wallet make sure to verify funtion before compile
 ```
 
 #### Install
 ```sh
 npm install
 ```
+#### env 
+```sh
+MENOMONIC : wallet menomonic keep is secrect donot let anyone know
+INFURA_URL: Infura rpc url
+```
+
 #### Test
 ```sh
 npm run test
